@@ -15,3 +15,4 @@ selenium
 python-dotenv
 python-slugify
 fake-useragent
+dotenv
